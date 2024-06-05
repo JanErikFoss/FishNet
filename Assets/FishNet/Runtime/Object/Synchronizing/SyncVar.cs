@@ -390,5 +390,3 @@ namespace FishNet.Object.Synchronizing
         }
     }
 }
-
-
